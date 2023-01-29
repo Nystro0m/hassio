@@ -28,7 +28,7 @@
     "avahi_interfaces": "",
     "avahi_hostname": "",
     "avahi_domainname": "local",
-    "airplay_name": "Hass.io",
+    "airplay_name": "Hass2.io",
     "enable_ipv6": false
   },
   "schema": {
