@@ -1,10 +1,10 @@
-# Shairport Sync addon for Home Assistant
+# Shairport Sync2 addon for Home Assistant
 
 [![GitHub Release][releases-shield]][releases] ![Project Stage][project-stage-shield] ![Project Maintenance][maintenance-shield] [![License][license-shield]](LICENSE)
 
 ## About
 
-Enables AirPlay audio streaming to Home Assistant.
+Enables AirPlay2 audio streaming to Home Assistant. EXPERIMENTAL
 
 [license-shield]: https://img.shields.io/github/license/v3rm0n/addon-shairport-sync.svg
 [version-shield]: https://images.microbadger.com/badges/version/maidok/shairport-sync.svg
